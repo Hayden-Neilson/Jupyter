@@ -3,3 +3,5 @@ learned how to operate jupyter it is a really usefull app
 
 import pandas
 df3 = pandas.read_excel("supermarkets.xlsx, sheetname=0") 
+
+you can use headers term to give a header tab to table
