@@ -5,3 +5,4 @@ import pandas
 df3 = pandas.read_excel("supermarkets.xlsx, sheetname=0") 
 
 you can use headers term to give a header tab to table
+using the columns operater you can add columns
