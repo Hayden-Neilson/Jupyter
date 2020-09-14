@@ -2,4 +2,4 @@ installed jupyter
 learned how to operate jupyter it is a really usefull app
 
 import pandas
-df2 = pandas.read_json("supermarkets.json") using pandas to open files
+df3 = pandas.read_excel("supermarkets.xlsx, sheetname=0") 
